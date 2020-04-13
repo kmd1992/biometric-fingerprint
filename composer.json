@@ -1,0 +1,19 @@
+{
+    "name": "kmd1992/biometricfingerprint",
+    "description": "This will access biometric fingerprint machine. so get data from this machine.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Kishan Modi",
+            "email": "kishan.modi1992@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Kmd1992\\Biometricfingerprint\\": "src/"
+        }
+    }
+}
